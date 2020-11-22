@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ev Otomasyon Sistemi</string>
+    <string name="refresh">Yenile</string>
+    <string name="on">Açık</string>
+    <string name="off">Kapalı</string>
+    <string name="disconnect">Bağlantıyı kes</string>
+    <string name="does_not_support_bluetooth">Bu cihaz Bluetooth\'u desteklemiyor</string>
+    <string name="could_not_find_paired_device">Eşleşmiş Bluetooth cihazı bulunamadı</string>
+    <string name="bluetooth_opened">Bluetooth açıldı</string>
+    <string name="bluetooth_closed">Bluetooth kapatıldı</string>
+    <string name="bluetooth_cancelled">Bluetooth açma işlemi iptal edildi</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="please_wait">Lütfen bekleyin</string>
+</resources>
